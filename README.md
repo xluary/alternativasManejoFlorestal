@@ -14,3 +14,5 @@ Para a execução do código é necessario preencher os arquivos:
 <li>talhoes - na coluna 1 deve conter a identificação dos talhões, na 2 a idade no início do horizonte de planejamento e na 3, a área </li>
 <li>prognose - na coluna 1 deve conter a identificação dos talhões e nas demais colunas a estimativa de produção dos talhões em diferente idades (gerei de 1 a 40 anos)</li>
 </ul>
+
+Obs: O código foi adaptado para funcionar no Octave e no Matlab.
