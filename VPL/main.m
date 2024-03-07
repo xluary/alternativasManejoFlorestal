@@ -73,3 +73,5 @@ for i = 1: qTalhoes
     end
     disp("Talhao: "), disp(i);
 end
+
+writematrix(BD, 'BD.txt');
