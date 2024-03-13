@@ -6,7 +6,7 @@ clc;
 
 baseDeDados = load("BD.txt");
 linhas = 416; %numero de talhoes
-colunas = 4; %numero de prescrições
+colunas = 81; %numero de prescrições
 controleBaseDeDados = 1;
 for i = 1: linhas
     for j = 1: colunas
