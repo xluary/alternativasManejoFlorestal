@@ -61,7 +61,6 @@ for i = 1: qTalhoes
         end
         [receita, custoColheita, custoManutencao]  = calcularInventario (idade, prognoseTalhao, precoMadeira(idade + 1, 2), area, idadeCusto(idade+1, 2));
 
-        custoColheitaTalhao(1, hp+1)= calcularCustoColheita(producao);
         receitaTalhao(1, hp+1) = receita;
         custoColheitaTalhao(1, hp+1) = custoColheita;
         custoManutencaoTalhao (1, hp+1) = custoManutencao;
