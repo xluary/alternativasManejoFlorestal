@@ -19,10 +19,10 @@ Para a execução do código é necessario preencher os arquivos:
 </ul>
 
 Por exemplo: 
-| 1 | 1 | 5 | 196   |
-|---|---|---|-------|
-| 1 | 1 | 6 | 224   |
-| 1 | 1 | 7 | 247   |
+| 1 | 1 | 5 | 196 |
+|---|---|---|-----|
+| 1 | 1 | 6 | 224 |
+| 1 | 1 | 7 | 247 |
 | 1 | 2 | 5 | 156,6 |
 
 Para a geração do arquivo de produtividade foi empregada a fórmula apresentada na Documentação_Base_de_dados.pdf, com um desconto de 20% de produução para cada rotação além da primeira. 
